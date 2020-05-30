@@ -1,0 +1,1 @@
+("7.7" racket ("dff9c67d8fce9af2301782f6f3f8c880be59b99d" . "36090aa448a6435b77d015a25bb9ab6a4764722e") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"syntax" #"readerr.rkt") (collects #"vpl" #"lang" #"choices.rkt"))

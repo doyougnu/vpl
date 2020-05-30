@@ -1,0 +1,1 @@
+("7.7" racket ("d2bfa25ebdaf6d65c4fb28e4c8ea905efde1cfac" . "fb3357f825dfb42e7c5f03d7e573a8f337e67b0a") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"syntax" #"readerr.rkt") (indirect collects #"racket" #"match" #"gen-match.rkt") (indirect collects #"racket" #"match" #"parse.rkt"))
